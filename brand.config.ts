@@ -9,6 +9,27 @@ export const brandConfig = {
   "contact": "0821-4309-9786",
   "publicLink": "https://www.semuabis.com/goodfellas-barbershop-soehat-0821-4309-9786",
   "instagram": "https://www.instagram.com/goodfellas_malang",
+  "designConcept": "Corporate premium grooming landing",
+  "conversionGoal": "Position GoodFellas as a dependable Soehat grooming stop with proof, hours, and direct booking.",
+  "proofPoints": [
+    "Business listing confirms phone, Soehat-area address, and daily 10:00-21:00 hours.",
+    "Barberhead lists a 4.7 score from 200 reviews, making trust proof prominent.",
+    "The category is hair care and barbering, so the page should sell outcome confidence, not generic services."
+  ],
+  "sourceLinks": [
+    {
+      "label": "GoodFellas listing",
+      "url": "https://www.semuabis.com/goodfellas-barbershop-soehat-0821-4309-9786"
+    },
+    {
+      "label": "GoodFellas Barberhead",
+      "url": "https://barberhead.com/malang/goodfellas-barbershop-suhat"
+    },
+    {
+      "label": "GoodFellas Instagram",
+      "url": "https://www.instagram.com/goodfellas_malang"
+    }
+  ],
   "theme": {
     "bg": "#14100d",
     "accent": "#b08968",
