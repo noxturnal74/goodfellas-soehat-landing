@@ -1,36 +1,34 @@
 # GoodFellas Barbershop Soehat
 
-Standalone landing page for Barbershop.
+Production-grade single-page concept for Barbershop.
 
-## Design concept
+## Visual philosophy
 
-Corporate premium grooming landing
+Cinematic neighborhood grooming club with film-grain texture, barber roster, and transformation proof.
 
-## Conversion goal
+## Business logic
 
-Position GoodFellas as a dependable Soehat grooming stop with proof, hours, and direct booking.
+Turn location searchers into booked haircut appointments with visible skill and trust proof.
 
-## Deployment notes
+## Storytelling structure
 
-- Static site entry: `index.html`
-- Local assets: `assets/`
-- Asset paths use relative `./assets/...`
-- `vercel.json` keeps `outputDirectory` at `.`
-- Logo fallback is handled in `script.js`
-- Hero fallback is a CSS gradient behind `./assets/hero.svg`
-- Parallax uses `requestAnimationFrame` in `script.js`
+Visitor sees grooming promise, picks a barber/service, reviews outcomes, checks hours, then books.
 
-## Brand-specific sections
+## Motion system
 
-- Barber Services: Haircut, shaving, and styling without overexplaining.
-- Barber Experience: A cleaner shop narrative for customers who care about finish.
-- Price List: Package names that make booking quicker.
+Smooth portrait reveal, razor-line dividers, calm service hover.
 
-## Public research injected
+## Conversion strategy
 
-- Business listing confirms phone, Soehat-area address, and daily 10:00-21:00 hours.
-- Barberhead lists a 4.7 score from 200 reviews, making trust proof prominent.
-- The category is hair care and barbering, so the page should sell outcome confidence, not generic services.
+Primary route is haircut booking; secondary route is membership or grooming product inquiry.
+
+## Operational content included
+
+- Hours: Daily 10:00-21:00
+- Contact: 0821-4309-9786
+- Pricing/offer cards: Regular Cut from Rp45k, Senior Barber from Rp70k, Signature Groom from Rp95k
+- Workflow: Pick service -> Choose barber -> Send appointment -> Arrive for consultation -> Receive style note
+- Policies: Appointments are prioritized after confirmation. / Walk-ins depend on chair availability. / Style consult happens before cutting.
 
 ## Source links
 

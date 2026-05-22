@@ -1,9 +1,9 @@
 export const metadata = {
   title: "GoodFellas Barbershop Soehat | Barbershop",
-  description: "A masculine grooming page for haircut, shaving, styling, and walk-in confidence. The route is simple: see the experience, choose a service, book.",
+  description: "Turn location searchers into booked haircut appointments with visible skill and trust proof.",
   openGraph: {
     title: "GoodFellas Barbershop Soehat",
-    description: "A masculine grooming page for haircut, shaving, styling, and walk-in confidence. The route is simple: see the experience, choose a service, book.",
+    description: "Turn location searchers into booked haircut appointments with visible skill and trust proof.",
     images: ["./assets/hero.svg"],
   },
 };
